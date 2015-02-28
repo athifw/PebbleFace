@@ -1,7 +1,9 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "money": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "athif@u.northwestern.edu",
     "longName": "pbl-ks",
@@ -10,7 +12,10 @@
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "pbl-ks",
+    "shortName": "demo pebble",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "34b74812-a726-404d-bcdd-f51b9c0c2f91",
     "versionCode": 1,
     "versionLabel": "1.0",
